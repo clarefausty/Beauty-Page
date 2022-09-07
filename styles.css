@@ -1,12 +1,10 @@
 body{
     margin:0;
+    background-image: url("diana2.jpg");
     background-size: cover;
     color:whitesmoke;
 }
-.main{
-    background-image: url("diana2.jpg");
-    padding: 20px 500px 1350px 0px;
-}
+
 .page{
     margin: -20px 0px 100px 0px;
     display: flex;
