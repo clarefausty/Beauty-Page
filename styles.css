@@ -6,13 +6,20 @@ body{
 }
 
 .page{
-    margin: -20px 0px 100px 0px;
+    margin: 0px 0px 100px 0px;
     display: flex;
     flex-direction: row;
-    justify-content: center;
-    height: 60px;
-    width: 1350px;
+    justify-content: space-around;
+    height: 150%;
+    width: 100%;
     background-color: #C68684;
+    padding: auto;
+}
+#home{
+    margin-left: 300px;
+}
+#contact{
+    margin-right: 300px;
 }
 .inter{
     margin-left: 60px;
