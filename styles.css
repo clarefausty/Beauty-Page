@@ -26,6 +26,7 @@ body{
 }
 #font{
     font-family: 'Bentham', serif;
+    margin-bottom: 50px;
 }
 #btn{
     background-color:#C68684;
@@ -33,6 +34,7 @@ body{
     border: none;
     border-radius: 3px;
     color: whitesmoke;
+    margin-top: 50px;
 
 }
 .txtshad{
